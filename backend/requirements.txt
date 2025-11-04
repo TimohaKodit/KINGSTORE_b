@@ -5,4 +5,7 @@ pydantic
 alembic
 python-dotenv
 aiogram
+pydantic-settings
 httpx
+psycopg2-binary
+cloudinary
