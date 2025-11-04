@@ -9,3 +9,4 @@ pydantic-settings
 httpx
 psycopg2-binary
 cloudinary
+python-multipart
